@@ -1,0 +1,4 @@
+name = "proxy-browser" # 好きな名前にしてOK
+main = "index.js"
+compatibility_date = "2024-04-27"
+usage_model = "bundled"
